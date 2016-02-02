@@ -18,9 +18,7 @@ import UIKit
     */
     
     //Realiza el ciclo de 0 a 100
-    var x = 0
-    //for x; x<=100;; x++ {
-    
+
     for x in 0...100{
     
     //Realiza la condición para números divisibles entre 5
